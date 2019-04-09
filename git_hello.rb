@@ -10,3 +10,5 @@ puts <<~TEXT
 宜しくお願いいたします。
 
 TEXT
+
+puts "hello word!!"
